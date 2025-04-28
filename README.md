@@ -83,7 +83,12 @@ The model uses:
 4. Train the model and evaluate the results.
 
 ---
-![Training Accuracy Graph](Screenshot 2025-04-29 022904.png)
+![Training Accuracy Graph](1st.png)
+![Training Accuracy Graph](2nd.png)
+![Training Accuracy Graph](3rd.png)
+![Training Accuracy Graph](4th.png)
+![Training Accuracy Graph](5th.png)
+![Training Accuracy Graph](6th.png)
 
 ## 📌 Future Improvements
 
