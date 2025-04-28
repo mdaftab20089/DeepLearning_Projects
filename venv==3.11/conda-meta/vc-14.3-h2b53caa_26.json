@@ -1,0 +1,32 @@
+{
+  "build": "h2b53caa_26",
+  "build_number": 26,
+  "channel": "https://conda.anaconda.org/conda-forge/win-64",
+  "constrains": [],
+  "depends": [
+    "vc14_runtime >=14.42.34433"
+  ],
+  "extracted_package_dir": "C:\\Users\\Aftab\\anaconda3\\pkgs\\vc-14.3-h2b53caa_26",
+  "files": [],
+  "fn": "vc-14.3-h2b53caa_26.conda",
+  "license": "BSD-3-Clause",
+  "link": {
+    "source": "C:\\Users\\Aftab\\anaconda3\\pkgs\\vc-14.3-h2b53caa_26",
+    "type": 1
+  },
+  "md5": "d3f0381e38093bde620a8d85f266ae55",
+  "name": "vc",
+  "package_tarball_full_path": "C:\\Users\\Aftab\\anaconda3\\pkgs\\vc-14.3-h2b53caa_26.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "7a685b5c37e9713fa314a0d26b8b1d7a2e6de5ab758698199b5d5b6dba2e3ce1",
+  "size": 17893,
+  "subdir": "win-64",
+  "timestamp": 1743195261000,
+  "track_features": "vc14",
+  "url": "https://conda.anaconda.org/conda-forge/win-64/vc-14.3-h2b53caa_26.conda",
+  "version": "14.3"
+}

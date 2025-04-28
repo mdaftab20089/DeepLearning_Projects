@@ -1,0 +1,34 @@
+{
+  "build": "py313hd8ed1ab_101",
+  "build_number": 101,
+  "channel": "https://conda.anaconda.org/conda-forge/noarch",
+  "constrains": [],
+  "depends": [
+    "python >=3.13,<3.14.0a0",
+    "python_abi * *_cp313"
+  ],
+  "extracted_package_dir": "C:\\Users\\Aftab\\anaconda3\\pkgs\\cpython-3.13.3-py313hd8ed1ab_101",
+  "files": [],
+  "fn": "cpython-3.13.3-py313hd8ed1ab_101.conda",
+  "license": "Python-2.0",
+  "link": {
+    "source": "C:\\Users\\Aftab\\anaconda3\\pkgs\\cpython-3.13.3-py313hd8ed1ab_101",
+    "type": 1
+  },
+  "md5": "904a822cbd380adafb9070debf8579a8",
+  "name": "cpython",
+  "noarch": "python",
+  "package_tarball_full_path": "C:\\Users\\Aftab\\anaconda3\\pkgs\\cpython-3.13.3-py313hd8ed1ab_101.conda",
+  "package_type": "noarch_python",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "None",
+  "sha256": "28baf119fd50412aae5dc7ef5497315aa40f9515ffa4ce3e4498f6b557038412",
+  "size": 47856,
+  "subdir": "noarch",
+  "timestamp": 1744663173000,
+  "url": "https://conda.anaconda.org/conda-forge/noarch/cpython-3.13.3-py313hd8ed1ab_101.conda",
+  "version": "3.13.3"
+}
