@@ -83,6 +83,8 @@ The model uses:
 4. Train the model and evaluate the results.
 
 ---
+Tensorboard Visualisation.
+
 ![Training Accuracy Graph](1st.png)
 ![Training Accuracy Graph](2nd.png)
 ![Training Accuracy Graph](3rd.png)
