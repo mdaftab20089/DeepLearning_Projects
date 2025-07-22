@@ -85,12 +85,18 @@ The model uses:
 ---
 Tensorboard Visualisation.
 
-![Training Accuracy Graph](1st.png)
-![Training Accuracy Graph](2nd.png)
-![Training Accuracy Graph](3rd.png)
-![Training Accuracy Graph](4th.png)
-![Training Accuracy Graph](5th.png)
-![Training Accuracy Graph](6th.png)
+![Training Accuracy Graphs]
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/1st.png
+
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/2nd.png
+
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/3rd.png
+
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/4th.png
+
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/5th.png
+
+https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/5th.png
 
 ## 📌 Future Improvements
 
