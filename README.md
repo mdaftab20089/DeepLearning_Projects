@@ -85,18 +85,23 @@ The model uses:
 ---
 Tensorboard Visualisation.
 
-![Training Accuracy Graphs]
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/1st.png
+## Sample Outputs
 
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/2nd.png
+### 1. Model Architecture
+![Model Architecture](https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/1st.png?raw=true)
 
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/3rd.png
+### 2. Training Accuracy
+![Training Accuracy](https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/2nd.png?raw=true)
 
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/4th.png
+### 3. Validation Accuracy
+![Validation Accuracy](https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/3rd.png?raw=true)
 
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/5th.png
+### 4. Confusion Matrix
+![Confusion Matrix](https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/4th.png?raw=true)
 
-https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/5th.png
+### 5. Final Prediction
+![Final Prediction](https://github.com/mdaftab20089/DeepLearning_Projects/blob/main/Images/5th.png?raw=true)
+
 
 ## 📌 Future Improvements
 
